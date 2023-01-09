@@ -13,7 +13,7 @@ app.use(cors());
 app.use(express_1.default.static(path.join(__dirname, 'build')));
 const PORT = 3000;
 app.get('/', (_req, res) => {
-    res.sendFile(path.resolve() + '/build/index.html');
+    res.sendFile(path.resolve() + '/orange-digital/build/index.html');
 });
 app.use('/api/multiMedia', multiMedia_1.default);
 app.listen(PORT, () => {
