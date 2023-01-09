@@ -1,0 +1,64 @@
+{
+    "PagenName" : "pepito",
+    "UserDetails": [
+        {
+            "name": "Thomas Rodriguez",
+            "description": "These is very adorable. I am loving this. Sometimes this pictures just are beatiful",
+            "image": "/assets/user1.png"
+        },
+        {
+            "name": "Thomas Rodriguez",
+            "description": "These is very adorable. I am loving this. Sometimes this pictures just are beatiful",
+            "image": "/assets/user2.png"
+        },
+        {
+            "name": "Thomas Rodriguez",
+            "description": "These is very adorable. I am loving this. Sometimes this pictures just are beatiful",
+            "image": "/assets/user3.png"
+        },
+        {
+            "name": "Thomas Rodriguez",
+            "description": "These is very adorable. I am loving this. Sometimes this pictures just are beatiful",
+            "image": "/assets/user4.png"
+        }
+    ],
+    "VideoDetails": [
+        {
+            "name": "video1",
+            "url": "/assets/video.mp4",
+            "description": "video1"
+        },
+        {
+            "name": "video1",
+            "url": "/assets/video.mp4",
+            "description": "video1"
+        },
+        {
+            "name": "video1",
+            "url": "/assets/video.mp4",
+            "description": "video1"
+        },
+        {
+            "name": "video1",
+            "url": "/assets/video.mp4",
+            "description": "video1"
+        }
+    ],
+    "PicturesDetails": [
+        {
+            "name": "photo1",
+            "url": "/assets/photo-1530584379127-80bf85c555ed.avif",
+            "description": "man on the beach"
+        },
+        {
+            "name": "photo2",
+            "url": "/assets/photo-1603314585442-ee3b3c16fbcf.avif",
+            "description": "a little cat"
+        },
+        {
+            "name": "photo3",
+            "url": "/assets/photo-1611416517780-eff3a13b0359.avif",
+            "description": "night city"
+        }
+    ]
+}

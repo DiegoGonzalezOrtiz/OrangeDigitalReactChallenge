@@ -1,0 +1,17 @@
+.mainBody{
+    padding-top: 44px;
+}
+.videoList{
+    position: relative;
+    .like {
+        position: absolute;
+        bottom:10%;
+        right: 5%;
+        color: rgba($color: white, $alpha: 0.5)
+    }
+}
+.photoList{
+    .row {
+        padding-top: 10px;
+    }
+}

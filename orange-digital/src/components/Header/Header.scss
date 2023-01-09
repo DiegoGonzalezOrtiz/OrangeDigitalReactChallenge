@@ -1,0 +1,36 @@
+.barraContainer{
+    background-color: #412781;
+    color: white;
+    position: absolute;
+    width: 100%;
+    z-index: 2;
+    background-image: linear-gradient( to bottom, rgba(134,95,200,0.9), rgba(50,35,128,0.9) ), url(./../../../public/assets/detail-page-bg.png);
+    background-size: 100% ;
+}
+.barra {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    p{
+        margin:0;
+        font-weight: bold;
+    }
+}
+.message{
+    padding: 100px 20px 20px 20px;
+    .info{
+        display: flex;
+        justify-content: space-between;
+    }
+    .div-icons {
+        display: flex;
+        padding-top: 10px;
+        .bubble{
+            margin-left: 10px;
+        }
+    }
+}
+h5 { 
+    margin: 5px;
+}
+

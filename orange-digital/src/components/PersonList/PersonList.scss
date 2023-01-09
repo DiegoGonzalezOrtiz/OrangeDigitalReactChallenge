@@ -1,0 +1,24 @@
+.personList{
+    background-color: white;
+    color: rgba(158,158,160, 1.0);
+    .row{
+        display: flex;
+        border-bottom: 1px solid rgba(236,235,236, 1.0);
+    }
+    img{
+        padding: 10px;
+        width: 80px;
+    }
+    .clock{
+       
+    }
+    h6 {
+        margin: 15px 0;
+    }
+    .favorite {
+        margin-left: 20px;
+    }
+    .comment {
+        margin-left: 10px;
+    }
+}
