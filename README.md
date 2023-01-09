@@ -106,3 +106,19 @@ The JSON Should include:
 Please include in the package.json file a command to start the ExpressJS server prior Serving the project so that the app can load the data when served.
 
 NB. No DB required just create a static json file that gets served via the NodeJS server.
+
+
+    How to run the project
+
+    first you have to install the dependency I recommend this command
+
+    npm i; cd orange-digital; npm i; cd ..
+
+    Then to build the application
+
+    npm run tsc ; cd orange-digital ; npm run build ; cp build -r ../build/ ; cd ..
+
+    Finally to run the app
+
+    node build/index.js
+
