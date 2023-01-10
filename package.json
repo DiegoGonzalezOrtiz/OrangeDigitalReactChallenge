@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "This code challenge will test your:",
   "main": "index.js",
+  "engines": {
+    "node": "18.x"
+  },
   "scripts": {
     "dev": "ts-node-dev src/index.ts",
     "tsc": "tsc",
